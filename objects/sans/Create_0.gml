@@ -1,0 +1,1 @@
+sansQuote = "Por que o esqueleto queria um amigo? \nEra porque ele estava so OSSINHO";
